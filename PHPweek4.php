@@ -6,16 +6,16 @@ for ($i = 0; $i <= 50; $i++) {
 
 // deel 2
 $klasgenoten = [
-    "Naam 1",
-    "Naam 2",
-    "Naam 3",
-    "Naam 4",
-    "Naam 5",
-    "Naam 6",
-    "Naam 7",
-    "Naam 8",
-    "Naam 9",
-    "Naam 10"
+    "Gideon",
+    "Lucas",
+    "Younes",
+    "Valerio",
+    "Lenny",
+    "Dejah",
+    "Gino",
+    "Dylan",
+    "Jayden",
+    "Omesh"
 ];
 
 foreach ($klasgenoten as $naam) {
